@@ -1,0 +1,18 @@
+.bannerBg {
+  background-color: #2c5fa5;
+  padding: 40px;
+}
+.BdJourney h5 {
+  color: #2c5fa5;
+  font-weight: bold;
+}
+.BdJourney h2 {
+  font-size: 40px;
+  color: #2c5fa5;
+  font-weight: bold;
+}
+.left-side {
+  padding: 15px;
+  border-radius: 10px;
+  background: rgba(234, 249, 252, 0.774);
+}

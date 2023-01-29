@@ -1,0 +1,29 @@
+
+.contact-form {
+  width: 50%;
+  margin-top: 2%;
+  background-color: rgb(249, 105, 14);
+  color: #fff;
+}
+.contact-heading {
+  margin-top: 10%;
+  margin-left: 10%;
+}
+.contactTag {
+  font-size: 70px;
+  color: white;
+}
+@media only screen and (max-width: 688px) {
+  .contact-form {
+    width: 90%;
+    margin-top: 2%;
+  }
+  .contact-heading {
+    margin-top: 2%;
+    margin-left: 2%;
+  }
+  .contactTag {
+    font-size: 50px;
+    color: white;
+  }
+}

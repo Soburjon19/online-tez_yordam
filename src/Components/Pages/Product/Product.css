@@ -1,0 +1,11 @@
+.productTextFirst {
+  text-align: right;
+}
+@media only screen and (max-width: 668px) {
+  .productTextFirst {
+    text-align: justify;
+  }
+  .productTextLast {
+    text-align: justify;
+  }
+}
